@@ -1,6 +1,6 @@
 {
- "versionCode": 39,
- "versionName": "1.38",
+ "versionCode": 40,
+ "versionName": "1.39",
  "apk": "https://github.com/dario7rugby36-svg/coinsy-download/raw/main/Coinsy.apk",
- "note": "Ora legge l'estratto conto Trade Republic (CSV) e mostra la versione nelle impostazioni."
+ "note": "Il controllo degli aggiornamenti ora è fatto da Android: più affidabile."
 }
