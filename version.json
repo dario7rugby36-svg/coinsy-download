@@ -1,6 +1,6 @@
 {
- "versionCode": 40,
- "versionName": "1.39",
+ "versionCode": 41,
+ "versionName": "1.40",
  "apk": "https://github.com/dario7rugby36-svg/coinsy-download/raw/main/Coinsy.apk",
- "note": "Il controllo degli aggiornamenti ora è fatto da Android: più affidabile."
+ "note": "Ora legge anche la lista movimenti in PDF di Banca Sella."
 }
