@@ -1,6 +1,6 @@
 {
- "versionCode": 38,
- "versionName": "1.37",
+ "versionCode": 39,
+ "versionName": "1.38",
  "apk": "https://github.com/dario7rugby36-svg/coinsy-download/raw/main/Coinsy.apk",
- "note": "Novità: ora puoi importare anche gli estratti conto in PDF (per esempio Banca Sella)."
+ "note": "Ora legge l'estratto conto Trade Republic (CSV) e mostra la versione nelle impostazioni."
 }
